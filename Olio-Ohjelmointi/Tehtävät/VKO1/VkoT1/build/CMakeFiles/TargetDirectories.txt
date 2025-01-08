@@ -1,0 +1,7 @@
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Tehtävät/VKO1/VkoT1/build/CMakeFiles/VkoT1.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Tehtävät/VKO1/VkoT1/build/CMakeFiles/edit_cache.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Tehtävät/VKO1/VkoT1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Tehtävät/VKO1/VkoT1/build/CMakeFiles/list_install_components.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Tehtävät/VKO1/VkoT1/build/CMakeFiles/install.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Tehtävät/VKO1/VkoT1/build/CMakeFiles/install/local.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Tehtävät/VKO1/VkoT1/build/CMakeFiles/install/strip.dir

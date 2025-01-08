@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e25fa1d3e2bccc27f843.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VkoT1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VkoT1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VkoT1-Debug-8a2a6c1ad20b5401f30e.json",
+					"name" : "VkoT1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Teht\u00e4v\u00e4t/VKO1/VkoT1/build",
+		"source" : "C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Teht\u00e4v\u00e4t/VKO1/VkoT1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
