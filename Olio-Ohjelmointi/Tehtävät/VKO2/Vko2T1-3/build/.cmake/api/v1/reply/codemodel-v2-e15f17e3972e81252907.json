@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-51ed34db4850f9d0e5e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Vko2T1-3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Vko2T1-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vko2T1-3-Debug-f549486f7d8d1864a3b4.json",
+					"name" : "Vko2T1-3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Teht\u00e4v\u00e4t/VKO2/Vko2T1-3/build",
+		"source" : "C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Teht\u00e4v\u00e4t/VKO2/Vko2T1-3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
