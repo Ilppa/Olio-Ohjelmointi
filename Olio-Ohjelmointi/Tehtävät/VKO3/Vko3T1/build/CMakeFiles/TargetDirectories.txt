@@ -1,0 +1,7 @@
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/VKO3/Vko3T1/build/CMakeFiles/Vko3T1.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/VKO3/Vko3T1/build/CMakeFiles/edit_cache.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/VKO3/Vko3T1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/VKO3/Vko3T1/build/CMakeFiles/list_install_components.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/VKO3/Vko3T1/build/CMakeFiles/install.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/VKO3/Vko3T1/build/CMakeFiles/install/local.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/VKO3/Vko3T1/build/CMakeFiles/install/strip.dir

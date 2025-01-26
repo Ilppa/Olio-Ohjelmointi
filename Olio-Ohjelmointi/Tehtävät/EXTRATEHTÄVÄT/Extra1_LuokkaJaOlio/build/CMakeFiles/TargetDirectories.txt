@@ -1,0 +1,7 @@
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/EXTRATEHTÄVÄT/Extra1_LuokkaJaOlio/build/CMakeFiles/Extra1_LuokkaJaOlio.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/EXTRATEHTÄVÄT/Extra1_LuokkaJaOlio/build/CMakeFiles/edit_cache.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/EXTRATEHTÄVÄT/Extra1_LuokkaJaOlio/build/CMakeFiles/rebuild_cache.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/EXTRATEHTÄVÄT/Extra1_LuokkaJaOlio/build/CMakeFiles/list_install_components.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/EXTRATEHTÄVÄT/Extra1_LuokkaJaOlio/build/CMakeFiles/install.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/EXTRATEHTÄVÄT/Extra1_LuokkaJaOlio/build/CMakeFiles/install/local.dir
+C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Tehtävät/EXTRATEHTÄVÄT/Extra1_LuokkaJaOlio/build/CMakeFiles/install/strip.dir

@@ -18,7 +18,7 @@ int main() {
         game.play();
         game.printGameResult();
 
-        std::cout << "[Y] YES or NO [N]: ";
+        std::cout << "Haluatko pelata uudelleen? [Y] YES or NO [N]: \n ";
         std::cin >> choice;
 
     } while (choice == 'Y' || choice == 'y');
