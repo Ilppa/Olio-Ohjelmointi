@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-172ef94bb45c667d661a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tehtava",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tehtava::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tehtava-Debug-1d6f565f96f9f188964b.json",
+					"name" : "Tehtava",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Teht\u00e4v\u00e4t/VKO5/Tehtava/build",
+		"source" : "C:/Users/imkyr/OneDrive/Desktop/AMK/OlioKurssi/Repository/Olio-Ohjelmointi/Teht\u00e4v\u00e4t/VKO5/Tehtava"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
